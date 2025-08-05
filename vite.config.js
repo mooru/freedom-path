@@ -9,6 +9,6 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
-  base: '/mooru/',
+  base: '/freedom-path/',
 })
 
