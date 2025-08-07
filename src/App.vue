@@ -313,16 +313,16 @@ function trackClick() {
     </div>
 
     <div class="flex justify-center space-x-10 mt-16 max-w-3xl mx-auto text-center text-gray-600 font-semibold">
-      <div class="bg-indigo-100 rounded-lg p-6 shadow-md w-32">
-        <div class="text-3xl text-indigo-900">750k+</div>
+      <div class="bg-indigo-100 rounded-lg p-6 shadow-md w-28">
+        <div class="text-2xl text-indigo-900">750k+</div>
         <div>People on the Journey</div>
       </div>
-      <div class="bg-indigo-100 rounded-lg p-6 shadow-md w-32">
-        <div class="text-3xl text-indigo-900">9</div>
+      <div class="bg-indigo-100 rounded-lg p-6 shadow-md w-28">
+        <div class="text-2xl text-indigo-900">9</div>
         <div>Years Track Record</div>
       </div>
-      <div class="bg-indigo-100 rounded-lg p-6 shadow-md w-32">
-        <div class="text-3xl text-indigo-900">100%</div>
+      <div class="bg-indigo-100 rounded-lg p-6 shadow-md w-28">
+        <div class="text-2xl text-indigo-900">100%</div>
         <div>Verifiable</div>
       </div>
     </div>
